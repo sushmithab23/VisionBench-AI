@@ -12,7 +12,7 @@
 
 ## Demo
 
-https://github.com/YOUR-USERNAME/VisionBench-AI/assets/XXXXX/your-video.mp4
+https://github.com/sushmithab23/VisionBench-AI/blob/main/assets/demo.mp4
 
 > Switch between Haar Cascade · MediaPipe · SSD-ResNet · Dlib HOG in real time.
 > Each model runs live with color-coded bounding boxes and latency tracking.
